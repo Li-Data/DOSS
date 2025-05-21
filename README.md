@@ -42,7 +42,7 @@ The dashboard answers the following questions:
    
 2. **Which location generates the highest revenue?**
    - Performance analysis for each location, highlighting the top performer.
-   (![dashboard]assets/image(4).png)
+   ![dashboard](assets/image(4).png)
 3. **Which category is the most popular across all locations?**
    - Revenue and unit sales for each category, identifying the most popular categories
    

@@ -75,9 +75,9 @@ The dashboard answers the following questions:
 
 # Dashboard
 
-![dashboard](Assets/d1.png)
+![dashboard](assets/d1.png)
 
-![dashboard2](Assets/d2.png)
+![dashboard2](assets/d2.png)
 
 # Insights and Analysis
 
